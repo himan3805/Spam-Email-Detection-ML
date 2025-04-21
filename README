@@ -1,0 +1,24 @@
+# email Prediction System
+This project predicts the likelihood of Diabetes and Heart email based on patient inputs.
+
+## How to Run
+1. Install dependencies: `pip install -r requirements.txt`
+2. run in cmd
+3. cd "file path"
+4. python data_exploration.py
+5. python data_preprocessing.py
+6. python model_trainer.py
+7. python database_manager.py
+8. python main.py
+9. python view_predictions.py
+
+
+## Dataset
+Ensure you have a dataset in `spam_dataset.csv` with the following columns:
+
+## Features
+- GUI for user input
+- Machine Learning model for predictions
+- Saves trained model for future use
+
+scikit-learn,pandas,numpy,tk,joblib
