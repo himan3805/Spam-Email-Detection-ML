@@ -1,5 +1,5 @@
-# email Prediction System
-This project predicts the likelihood of Diabetes and Heart email based on patient inputs.
+# Spam Email Detection System
+This project detects the spam and ham email based on user inputs.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
